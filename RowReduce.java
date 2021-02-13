@@ -4,10 +4,6 @@
  * Copyright 2021, All Rights Reserved
  */
 
- /** The following notes are maintained by the developer of this projects. These notes are to be deprecated immediately upon release.
-  * 
-  */
-
 public class RowReduce {
     public static int[] defaultReturnArray = new int[0]; // this is a default value --> will be removed in production
     public static void main(String[] args) {
