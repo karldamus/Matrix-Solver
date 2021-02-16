@@ -8,9 +8,7 @@ package RowReduce;
  */
 
 public class RowReduce {
-	/**
-	 * DEFAULT DEV VALUES
-	 */
+	
     public static int[] defaultReturnArray = new int[0];
     public static byte[][] defaultReturnByte = new byte[0][0];
 	public static boolean defaultReturnBoolean = true; 
